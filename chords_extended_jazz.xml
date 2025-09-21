@@ -65,7 +65,7 @@
 <!-- allow style to control mag and position adjustments -->
 <autoAdjust>1</autoAdjust>
 
-<font family="MuseJazz Text">
+<font family="Inkpen2 Script Std">
 	<sym code="0xe180" name="ma"/>
 	<sym code="0xe181" name="mi"/>
 	<sym code="0xe185" name="sus"/>
@@ -80,23 +80,23 @@
 	<sym code="0x1d12b" name="bb"/>
 </font>
 
-<font family="MuseJazz Text">
+<font family="Inkpen2 Script Std">
 	<mag>0.75</mag>
 	<sym code="0xe18a" name="triangle"/>
 </font>
 
-<font family="MuseJazz Text">
+<font family="Inkpen2 Script Std">
 	<mag>0.85</mag>
 	<sym code="0xe18e" name="circle"/>
 	<sym code="0xe18f" name="oslash"/>
 </font>
 
-<font family="MuseJazz Text">
+<font family="Inkpen2 Script Std">
 	<mag>1</mag>
 	<sym value="-" name="-"/>
 </font>
 
-<font class="extension" family="MuseJazz Text">
+<font class="extension" family="Inkpen2 Script Std">
 	<mag>&extsize;</mag>
 	<sym code="0xe190" name="e0"/>
     <sym code="0xe191" name="e1"/>
@@ -110,7 +110,7 @@
     <sym code="0xe199" name="e9"/>
 </font>
 
-<font class="extension" family="MuseJazz Text">
+<font class="extension" family="Inkpen2 Script Std">
 	<mag>0.75</mag>
 	<sym value="(" name="e("/>
 	<sym value=")" name="e)"/>
@@ -118,7 +118,7 @@
 	<sym value="/" name="e/"/>
 </font>
 
-<font class="modifier" family="MuseJazz Text">
+<font class="modifier" family="Inkpen2 Script Std">
 	<mag>0.75</mag>
 	<sym value="(" name="s("/>
 	<sym value=")" name="s)"/>
@@ -126,7 +126,7 @@
 	<sym value="/" name="s/"/>
 </font>
 
-<font class="modifier" family="MuseJazz Text">
+<font class="modifier" family="Inkpen2 Script Std">
 	<mag>&extsize;</mag>
 	<sym code="0xe190" name="s0"/>
 	<sym code="0xe191" name="s1"/>
@@ -146,14 +146,14 @@
 	<sym code="0xe184" name="sdim"/>
 </font>
 
-<font class="modifier" family="MuseJazz Text">
+<font class="modifier" family="Inkpen2 Script Std">
 	<mag>&capitalwordsize;</mag>
 	<sym value="M" name="sM"/>
 	<sym value="MA" name="sMA"/>
 	<sym value="MI" name="sMI"/>
 </font>
 
-<font class="modifier" family="MuseJazz Text">
+<font class="modifier" family="Inkpen2 Script Std">
 	<mag>&wordsize;</mag>
 	<sym value="Ma" name="sMa"/>
 	<sym value="Maj" name="sMaj"/>
@@ -168,7 +168,7 @@
 	<sym value="omit" name="somit"/>
 </font>
 
-<font class="modifier" family="MuseJazz Text">
+<font class="modifier" family="Inkpen2 Script Std">
 	<mag>&ext2size;</mag>
 	<sym code="0xe195" name="ss5"/>
 	<sym code="0xe199" name="ss9"/>
@@ -181,7 +181,7 @@
 	<sym value="9" name="699"/>
 </font>
 
-<font class="modifier" family="MuseJazz Text">
+<font class="modifier" family="Inkpen2 Script Std">
 	<mag>&ext3size;</mag>
 	<sym code="0xe195" name="sss5"/>
 	<sym code="0xe199" name="sss9"/>
